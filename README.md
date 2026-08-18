@@ -1,11 +1,21 @@
 <div align="center">
 
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Kartik%20Goyal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:F8BBD0,100:EF93C4&height=220&section=header&text=Kartik%20Goyal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=220&section=header&text=Kartik%20Goyal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=230&section=header&text=Kartik%20Goyal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:F8BBD0,100:EF93C4&height=230&section=header&text=Kartik%20Goyal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=230&section=header&text=Kartik%20Goyal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    width="100%"
+    alt="Kartik Goyal"
+  />
 </picture>
 
 <br>
@@ -14,28 +24,37 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+Web+Applications;Backend+%7C+DevOps+%7C+Cloud;Problem+Solver+%7C+Hackathon+Enthusiast;Turning+Ideas+Into+Working+Products"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Full+Stack+Developer;Backend+%7C+DevOps+%7C+Cloud;Building+Scalable+Web+Applications;Problem+Solver+%7C+Hackathon+Enthusiast;Turning+Ideas+Into+Working+Products"
     alt="Typing SVG"
   />
 </a>
 
 <br>
 
-<!-- ===================== BADGES ===================== -->
+<!-- ===================== PROFILE BADGES ===================== -->
 
 <a href="https://github.com/kartikgoyal368">
-  <img src="https://img.shields.io/github/followers/kartikgoyal368?label=Followers&style=for-the-badge&color=EF93C4&labelColor=161616" />
+  <img
+    src="https://img.shields.io/github/followers/kartikgoyal368?label=Followers&style=for-the-badge&color=EF93C4&labelColor=161616"
+    alt="GitHub Followers"
+  />
 </a>
+
 <a href="https://github.com/kartikgoyal368?tab=repositories">
-  <img src="https://img.shields.io/github/stars/kartikgoyal368?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=161616" />
+  <img
+    src="https://img.shields.io/github/stars/kartikgoyal368?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=161616"
+    alt="GitHub Stars"
+  />
 </a>
-<a href="https://github.com/kartikgoyal368">
-  <img src="https://komarev.com/ghpvc/?username=kartikgoyal368&label=Profile%20Views&color=FF69B4&style=for-the-badge" />
-</a>
+
+<img
+  src="https://komarev.com/ghpvc/?username=kartikgoyal368&label=Profile%20Views&color=FF69B4&style=for-the-badge"
+  alt="Profile Views"
+/>
+
+<br><br>
 
 </div>
-
-<br>
 
 ---
 
@@ -43,11 +62,12 @@
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
 ### Hey! I'm Kartik 👋
 
-I'm a **Computer Science undergraduate and software developer** who enjoys turning ideas into real, working products.
+I'm a **Computer Science student and software developer** who enjoys turning ideas into real, working products.
 
 - 💻 Full Stack & Backend Development
 - ⚙️ Building scalable and production-ready applications
@@ -55,24 +75,25 @@ I'm a **Computer Science undergraduate and software developer** who enjoys turni
 - 🧠 Regularly solving Data Structures & Algorithms problems
 - 🏆 Hackathon enthusiast and problem solver
 - 🔧 Exploring new technologies by building projects
-- 🌱 Currently improving my system design and backend engineering skills
-- 🎯 Goal: Build software that solves meaningful real-world problems
+- 🌱 Currently improving my backend engineering and system design skills
+- 🎯 Focused on building impactful software
 
 <br>
 
-> **"Build. Break. Learn. Repeat."**
+> **Build. Break. Learn. Repeat.**
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="center">
 
 <img
   src="https://raw.githubusercontent.com/kartikgoyal368/kartikgoyal368/main/profile/profile.jpg"
-  width="250"
+  width="240"
   alt="Kartik Goyal"
 />
 
 </td>
+
 </tr>
 </table>
 
@@ -86,25 +107,37 @@ I'm a **Computer Science undergraduate and software developer** who enjoys turni
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark" />
+<img
+  src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark"
+  alt="Programming Languages"
+/>
 
 <br><br>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark"
+  alt="Frontend Technologies"
+/>
 
 <br><br>
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase&theme=dark" />
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase&theme=dark"
+  alt="Backend and Databases"
+/>
 
 <br><br>
 
 ### DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vercel,render,linux,vscode&theme=dark" />
+<img
+  src="https://skillicons.dev/icons?i=git,github,docker,jenkins,vercel,render,linux,vscode&theme=dark"
+  alt="DevOps and Tools"
+/>
 
 </div>
 
@@ -117,11 +150,17 @@ I'm a **Computer Science undergraduate and software developer** who enjoys turni
 <div align="center">
 
 <a href="https://github.com/kartikgoyal368">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartikgoyal368&repo=QuickAi-SAAS&theme=radical&title_color=EF93C4&icon_color=FF69B4&border_color=EF93C4" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=kartikgoyal368&repo=QuickAi-SAAS&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&border_color=EF93C4"
+    alt="QuickAi SAAS"
+  />
 </a>
 
 <a href="https://github.com/kartikgoyal368">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartikgoyal368&repo=MeetAI&theme=radical&title_color=EF93C4&icon_color=FF69B4&border_color=EF93C4" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=kartikgoyal368&repo=MeetAI&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&border_color=EF93C4"
+    alt="MeetAI"
+  />
 </a>
 
 </div>
@@ -134,12 +173,15 @@ I'm a **Computer Science undergraduate and software developer** who enjoys turni
 
 <div align="center">
 
-<!-- LOCAL GENERATED STATS -->
+<!-- LOCAL GITHUB STATS GENERATED BY GITHUB ACTIONS -->
+
 <img
   src="./profile/stats.svg"
   width="495"
   alt="Kartik Goyal GitHub Stats"
 />
+
+<br><br>
 
 <img
   src="./profile/top-langs.svg"
@@ -149,10 +191,11 @@ I'm a **Computer Science undergraduate and software developer** who enjoys turni
 
 <br><br>
 
-<!-- STREAK -->
+<!-- GITHUB STREAK -->
 
 <img
-  src="https://streak-stats.demolab.com?user=kartikgoyal368&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+  src="https://streak-stats.demolab.com?user=kartikgoyal368&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=F8BBD0&dates=AAAAAA"
+  width="700"
   alt="GitHub Streak"
 />
 
@@ -176,43 +219,88 @@ I'm a **Computer Science undergraduate and software developer** who enjoys turni
 
 <div align="center">
 
-<img
-  src="./output/github-contribution-grid-snake-pink.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kartikgoyal368/kartikgoyal368/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kartikgoyal368/kartikgoyal368/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/kartikgoyal368/kartikgoyal368/output/github-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+
+</picture>
 
 </div>
 
 <!--
-The snake above is generated automatically by GitHub Actions.
+===========================================================
+CONTRIBUTION SNAKE
+===========================================================
 
-Expected workflow:
+Generated automatically by:
+
 .github/workflows/snake.yml
 
-Expected generated file:
-output/github-contribution-grid-snake-pink.svg
+Published to:
+
+output/github-snake.svg
+output/github-snake-dark.svg
+
+===========================================================
 -->
 
 <br>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-<a href="https://github.com/kartikgoyal368?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-EF93C4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<table>
+<tr>
 
-<a href="https://github.com/kartikgoyal368?tab=achievements">
-  <img src="https://img.shields.io/badge/Achievements-View-F8BBD0?style=for-the-badge&logo=github&logoColor=black" />
-</a>
+<td align="center" width="33%">
 
-<a href="https://github.com/kartikgoyal368?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-Earned-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 🛰️ NASA
+
+**Grand Finalist**
+
+NASA Apps Challenge
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 DSA
+
+**400+**
+
+LeetCode Problems
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏆 Hackathons
+
+**Multiple**
+
+Hackathon Experiences
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -220,18 +308,124 @@ output/github-contribution-grid-snake-pink.svg
 
 ---
 
-## 💼 What I'm Working On
+## 💡 What I'm Building
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   🚀 Full Stack Development                         │
-│   ⚙️  Backend Engineering                           │
-│   ☁️  DevOps & Cloud                                │
-│   🧠 Data Structures & Algorithms                   │
-│   🏗️  Scalable System Design                        │
-│   💡 Building Real-World Products                   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Full Stack**
+
+Modern Web Apps
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+Scalable APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**DevOps**
+
+Cloud & Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**DSA**
+
+Problem Solving
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kartik-goyal/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://x.com/kartikgoyal368">
+  <img
+    src="https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=black"
+    alt="X"
+  />
+</a>
+
+<a href="https://www.instagram.com/kartikgoyal368/">
+  <img
+    src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
+
+<a href="https://www.tiktok.com/@kartikgoyal368">
+  <img
+    src="https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white"
+    alt="TikTok"
+  />
+</a>
+
+<a href="https://www.youtube.com/@kartikgoyal368">
+  <img
+    src="https://img.shields.io/badge/YouTube-FF69B4?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="YouTube"
+  />
+</a>
+
+<a href="mailto:kartikgoyal368@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black"
+    alt="Email"
+  />
+</a>
+
+</div>
+
+<br><br>
+
+---
+
+<div align="center">
+
+### 💗 Thanks for visiting my profile!
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=150&section=footer&animation=fadeIn"
+  width="100%"
+  alt="Footer"
+/>
+
+</div>
