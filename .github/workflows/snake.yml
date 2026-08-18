@@ -4,32 +4,33 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kartikgoyal368
-
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FF69B4&color_dots=%23F8BBD0,%23F8BBD0,%23EF93C4,%23EF93C4,%23FF69B4
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23FF69B4&color_dots=%231A1017,%23F8BBD0,%23EF93C4,%23FF69B4,%23FF69B4
+            dist/github-contribution-grid-snake-pink.svg?color_snake=FF69B4&color_dots=#161616,#F8BBD0,#EF93C4,#FF69B4,#FF1493
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy Snake
+      - name: Deploy Snake to Output Branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
           publish_dir: ./dist
+          publish_branch: output
           force_orphan: true
           commit_message: "Update contribution snake"
