@@ -193,11 +193,14 @@ I'm a **Computer Science student and software developer** who enjoys turning ide
 
 <!-- GITHUB STREAK -->
 
-<img
-  src="https://streak-stats.demolab.com?user=kartikgoyal368&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=F8BBD0&currStreakNum=FF69B4&sideNums=F8BBD0&dates=AAAAAA"
-  width="700"
-  alt="GitHub Streak"
-/>
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=kartikgoyal368&background=0D1117&border=EF93C4&stroke=EF93C4&ring=FF69B4&fire=FF69B4&currStreakNum=F8BBD0&sideNums=F8BBD0&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0"
+    alt="Kartik Goyal GitHub Streak"
+  />
+</p>
 
 <br><br>
 
