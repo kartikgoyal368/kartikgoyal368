@@ -219,25 +219,15 @@ I'm a **Computer Science student and software developer** who enjoys turning ide
 
 <div align="center">
 
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kartikgoyal368/kartikgoyal368/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kartikgoyal368/kartikgoyal368/output/github-snake.svg"
-  />
+<div align="center">
 
   <img
-    src="https://raw.githubusercontent.com/kartikgoyal368/kartikgoyal368/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/kartikgoyal368/kartikgoyal368/output/github-contribution-grid-snake-pink.svg"
+    alt="Kartik Goyal's GitHub Contribution Snake"
     width="100%"
-    alt="GitHub Contribution Snake"
   />
 
-</picture>
+</div>
 
 </div>
 
